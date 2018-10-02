@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupyter
+sklearn
+h5py
+opencv-python
+tensorflow==1.7.0
