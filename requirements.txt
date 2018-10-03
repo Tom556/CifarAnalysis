@@ -4,4 +4,5 @@ jupyter
 sklearn
 h5py
 opencv-python
+scikit-image
 tensorflow==1.7.0
